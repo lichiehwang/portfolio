@@ -348,8 +348,8 @@ img {
   font-size: 1.2rem;
 }
 .article-body2 {
-  max-height: 80vh;
-  
+  max-width: 55%;
+  padding-left: 80px;
   }
 .article-body {
 
