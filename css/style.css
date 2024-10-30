@@ -613,5 +613,5 @@ input[type="radio"]:checked + label {
 .lang{
 position:absolute;
 top:75px;
-left:40px;
+right:40px;
 }
