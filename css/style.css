@@ -601,14 +601,14 @@ label{
   /* border     : 1px solid #ccc; */
   /* box-shadow : 2px 2px #999; */
   padding: 2px 4px;
-  color:#cac9c9;
+  color:#888888;
   font-size:.8rem;
 }
  
  /* === 選択されている言語のラベル色を変更 ==== */
 input[type="radio"]:checked + label {
   /* background : #ffa64d; */
-  color:#333;
+  color:#000000;
 }
 .lang{
 position:absolute;
